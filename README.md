@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**slickwit/slickwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello there, I'm Kenneth!
 
-Here are some ideas to get you started:
+Your friendly neighborhood dev! 🐛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[👓 Portfolio](https://kennethryandy.vercel.app)
+
+🌱 Passionate about coding, music and hiking.
+
+⌨️ Always leveling up my coding skills
+
+
+###  💻 My Tech Stack:
+[![Languages](https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind)](https://skillicons.dev)
+
+**Frameworks:**
+
+[![Framworks](https://skillicons.dev/icons?i=next,react,laravel,vue,svelte)](https://skillicons.dev)
+
+**Databases:**
+
+[![Framworks](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
+
+
+### 📫 Connect with Me
+  
+![Gmail](https://skillicons.dev/icons?i=gmail)
+
+ dykennethryan@gmail.com
