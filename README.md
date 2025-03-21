@@ -4,7 +4,7 @@
 
 Your friendly neighborhood dev! 🐛
 
-[👓 Portfolio](https://kennethryandy.vercel.app)
+[👓 Portfolio](www.dykennethryan.com)
 
 🌱 Passionate about coding, music and hiking.
 
