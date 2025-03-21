@@ -4,7 +4,7 @@
 
 Your friendly neighborhood dev! 🐛
 
-[👓 Portfolio](www.dykennethryan.com)
+[👓 Portfolio](https://dykennethryan.com)
 
 🌱 Passionate about coding, music and hiking.
 
